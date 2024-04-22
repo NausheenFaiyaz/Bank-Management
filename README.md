@@ -1,6 +1,6 @@
 # Bank-Management
 Author-Nausheen Faiyaz
 <br>
-This is my first Repository on Bank Management system.
+This Repository is on Bank Management system using C++ language.
 <br>
-This is a simple Bank Management System programmed by me.
+A simmple Bank management system for cash Withdrawal, Deposit, and Display of Final look.
